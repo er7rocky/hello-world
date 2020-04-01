@@ -1,2 +1,4 @@
 # hello-world
-Time honoured traditional startup in the programming world
+Time honoured traditional startup in the programming world.
+When the world experienced a new world order that no one living in 21st century knew, I started to Git.
+Thank you.

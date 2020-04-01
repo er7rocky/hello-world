@@ -1,2 +1,2 @@
 # hello-world
-time honoured traditional startup in the programming world
+Time honoured traditional startup in the programming world

@@ -5,6 +5,7 @@ Thank you.
 By this time a new member has joined for gitting.
 Thank you.
 Time to have more gitting.
-one last take
+one last take.
 Bye bye hello world.
 See you around
+
